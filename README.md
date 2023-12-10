@@ -1,5 +1,5 @@
 # This is DiscordBot_CheatSheet
-
+This Disccord.js's version is 14.14.1
 ## Table of Contents
 - [config.json's explanation](#configjsons-explanation)
 - [deploy-commands.js's explanation](#deploy-commandsjss-explanation)
