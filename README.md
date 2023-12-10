@@ -13,8 +13,7 @@ Write down the bot's token and ID
 - Used to add commands to the server
 
 - Multiple can be added by duplicating this code
-<code>
-const commands = [
+<code>const commands = [
     new SlashCommandBuilder().setName('Write Command').setDescription('Command explanation'),
 ]
     .map(command => command.toJSON());
